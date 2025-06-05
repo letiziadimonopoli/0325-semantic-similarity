@@ -1,6 +1,6 @@
 # Semantic Similarity Measurement (March 2025)
 
-🎯 Research Goal
+🎯 Goal
 
 The goal of this project is to implement a retrieval method that can identify the most relevant response from a dataset given a new question.
 
